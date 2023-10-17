@@ -1,0 +1,11 @@
+ROWID,ARTIST,TITLE,GENRE,YEAR,TIME,COPIES,SOUNDTRACK
+1,Whitney Houston,I Will Always Love You,Slow,1992,4:31,20000000,1
+2,Elvis Presley,Love Me Tender,Slow,1956,2:46,1000000,0
+3,Celine Dion,My Heart Will Go On,Slow,1997,4:36,18000000,1
+4,Lionel Richie & Diana Ross,Endless Love,Slow,1981,4:26,1000000,0
+5,Sonny & Cher,I Got U Babe,Rock 1960s,1965,3:09,500000,0
+6,John Travolta & Olivia Newton-John,You're the One That I Want,Rock 1970s,1978,2:50,15000000,1
+7,Elvis Presley,Can't Help Falling in Love,Slow,1961,2:59,1000000,0
+8,Led Zeppelin,Whole Lotta Love,Rock 1960s,1969,5:33,12000000,0
+9,Guns N' Roses,Sweet Child O' Mine,Rock 1980s,1988,5:55,30000000,0
+10,Chris Isaak,Wicked Game,Slow,1991,4:48,3000000,0

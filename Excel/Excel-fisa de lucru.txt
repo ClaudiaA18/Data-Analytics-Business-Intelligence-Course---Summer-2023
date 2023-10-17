@@ -1,0 +1,188 @@
+1) Care combinație de taste se utilizează pentru a salva un fișier în Excel?		
+a) Ctrl + S		
+b) Ctrl + P		
+c) Ctrl + O		
+d) Ctrl + N		
+		
+2) Care dintre următoarele funcții este utilizată pentru a însuma valorile numerice dintr-un range de celule?		
+a) SUM		
+b) COUNT		
+c) ADD		
+d) SUMIF		
+		
+3) Care din formulele de mai jos sunt corecte si pot extrage un text din celula A1 care conține cuvântul ALFABET?		
+a) =LEFT(A1,2)		
+b) =MID(A1,2)		
+c) =RIGHT(A1,2)		
+d) =TEXT(A1,2)		
+		
+4) Unde intram pentru a proteja o foaie de lucru în Excel astfel încât să nu poată fi modificată?		
+a) Review > Protect Sheet		
+b) File > Save As		
+c) View > Freeze Panes		
+d) Data > Filter		
+		
+"5) Care este combinația de taste pentru a deschide ""Format Cell”?"		
+a) Ctrl + A		
+b) Ctrl + 1		
+c) Ctrl + N		
+d) Ctrl + T		
+		
+		
+		
+6) Care este diferența dintre funcția VLOOKUP si HLOOKUP?		
+a) Nu exista nicio diferență între ele, cu excepția numelui		
+b) HLOOKUP este mult mai performantă decât VLOOKUP, fiind o funcție mai recentă		
+c) Diferența este ca VLOOKUP caută pe coloane, iar HLOOKUP caută pe rânduri		
+d) Nu exista funcția HLOOKUP		
+		
+7) Care dintre funcțiile de mai jos este utilizată pentru a combina texte din mai multe celule?		
+a) CONCATENATE		
+b) MERGE		
+"c) JOIN
+ d) CONCAT"		
+		
+8) În care din tab-urile de mai jos găsim zona de validare a datelor pentru a restricționa introducerea într-o celulă doar a anumitor valori?		
+a) Data		
+b) Insert		
+c) Format		
+d) View		
+		
+9) In care din tab-urile de mai jos putem aplica Freeze pe coloane sau rânduri?		
+a) Page Layout		
+b) Insert		
+c) Review		
+d) View		
+		
+10) Care funcție este utilizată pentru a număra celulele care conțin doar valori numerice?		
+a) COUNTA		
+b) COUNTINUMBER		
+c) COUNTN		
+d) COUNT		
+		
+11) Care funcție este utilizată pentru a găsi valoarea maximă dintr-o serie de valori?		
+a) MAX		
+b) UPPER		
+c) SUM		
+d) MAXIMUM		
+		
+12) Care dintre următoarele formule este utilizată pentru a returna data și ora curentă?		
+a) =NOW()		
+b) =TODAY()		
+c) =DATE()		
+d) =DATETIME()		
+		
+		
+13) Care dintre formulele de mai jos concatenează celulele A1 si A2?		
+a) =A1&A2
+b) =CONCAT(A1:A2)"		
+c) =CONCATENATE(A1:A2)
+d) =CONCATENATE(A1,A2)"		
+	
+		
+14) Care din formulele de mai jos numără câte celule conțin o anumită valoare într-un range de celule?		
+"a) =COUNT(A1:A10,""valoare"")"		
+"b) =COUNTIF(A1:A10,""valoare"")"		
+"c) =COUNTIFS(A1:A10,""valoare"")"		
+		
+15) Cum se extrage valoarea maximă dintr-un range de celule, în funcție de un anumit criteriu?		
+"a) =MAXIFS(A1:A10,B1:B10,""criteriu"")"		
+"b) =MAXIF(A1:A10,B1:B10,""criteriu"")"		
+"c) =MAX(A1:A10,""criteriu"")"		
+		
+16) Care din cele 3 sintaxe ale funcției VLOOKUP este corectă?		
+a) =VLOOKUP(lookup_value, table_array, col_index_num, range_lookup)		
+b) =VLOOKUP(table_array, lookup_value, col_index_num, range_lookup)		
+c) =VLOOKUP(col_index_num, table_array, lookup_value, range_lookup)		
+		
+17) Care este formula corectă pentru a căuta cea mai mare valoare într-o coloană dintr-un tabel?		
+a) =LARGE(Table1[Column1])		
+b) =LARGEST(Table1[Column1])		
+c) =MAX(Table1[Column1])		
+d) =GREATEST(Table1[Column1])		
+		
+18) Celula D4 conține formula =C1+C2. Ce formulă vom vedea dacă vom copia formula în celula E5?		
+a) =C1+C2		
+b) =$C1+$C2		
+c) =D2+D3		
+d) =E6+E7		
+		
+19) Ca regulă generală, Excel va alinia numerele la____?		
+a) dreapta		
+b) stânga		
+c) mijloc		
+d) niciuna de mai sus		
+		
+20) Care dintre funcțiile de mai jos elimină spatiile, exceptând un spațiu între cuvinte?		
+a) SPACE		
+b) CLEAN		
+c) TRIM		
+d) SUBSTITUTE		
+		
+		
+21) Care este combinația de taste pentru însumare automată?		
+a) ALT + =		
+b) CTRL + =		
+c) ALT + S		
+d) CTRL + S		
+		
+		
+22) Care este combinația de taste pentru a insera un tabel?		
+a) CTRL + S		
+b) CTRL + T		
+c) CTRL + A		
+c) Alt + T		
+		
+		
+23) Care este formula corectă pentru aducerea pretului din coloana I in coloana F, pentru fiecare fruct, folosind functia VLOOKUP ?		
+a)=VLOOKUP($E$138,$H$138:$I$142,2,0)		
+b)=VLOOKUP(E138,H138:I142,2,0)		
+c)=VLOOKUP(E138,$H$138:$I$142,2,0)		
+d)=VLOOKUP($E$138,H138:I142,2)		
+			
+24) Care este formula corectă pentru calculul mediei aritmetice al valorilor din imaginea de mai jos?		
+a) = AVERAGE (E145,E146,E147,E148,E149)		
+b) = AVERAGE (SUM(E145+E146+E147+E148+E149))		
+c) = AVERAGE (E145+E146+E147+E148+E149)		
+d) = AVERAGE (E145:E149)			
+		
+25) Care formulă calculează Media Ponderată?		
+a) =SUMPRODUCT(F156:F158*E156:E158)		
+b) =SUMPRODUCT(E156:E158,E156:E158)		
+c) =AVERAGE(E156:E158*F156:F158)		
+				
+26) Care din funcțiile de mai jos calculează suma comenzilor finalizate?		
+"a) =SUMIF(F168:F170,E168:E170,""Finalized"")"		
+"b) =SUMIF(E168:E170,""Finalized"",F168:F170)"		
+"c) =SUMIFS(E168:E170,""Finalized"",F168:F170)"		
+"c) =SUMIFS(F168:F170,E168:E170,""Finalized"")"	
+
+
+Răspunsuri:
+1) a) Ctrl + S
+2) a) SUM
+3) a) =LEFT(A1,2)
+4) a) Review > Protect Sheet
+5) b) Ctrl + 1
+6) c) Diferența este ca VLOOKUP caută pe coloane, iar HLOOKUP caută pe rânduri
+7) a) CONCATENATE
+8) a) Data
+9) d) View
+10) d) COUNT
+11) a) MAX
+12) a) =NOW()
+13) d) =CONCATENATE(A1,A2)
+14) b) =COUNTIF(A1:A10,"valoare")
+15) a) =MAXIFS(A1:A10,B1:B10,"criteriu")
+16) a) =VLOOKUP(lookup_value, table_array, col_index_num, range_lookup)
+17) c) =MAX(Table1[Column1])
+18) d) =E6+E7
+19) a) dreapta
+20) c) TRIM
+21) b) CTRL + =
+22) b) CTRL + T
+23) c) =VLOOKUP(E138,$H$138:$I$142,2,0)
+24) d) = AVERAGE (E145:E149)
+25) a) =SUMPRODUCT(F156:F158*E156:E158)
+26) b) =SUMIF(E168:E170,"Finalized",F168:F170)
+

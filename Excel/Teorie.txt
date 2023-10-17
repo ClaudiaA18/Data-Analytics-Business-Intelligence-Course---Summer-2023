@@ -1,0 +1,49 @@
+Spatiu intr o functie => functie (col1," ",col2)
+
+Concat(variante de scriere)
+1) col1&col2
+2) concat(col1:col2)
+3) concatenate(col1, col2) 
+!!nu se pune ":" la concatenate, se foloseste ","!!
+
+Cum se sterg randuri goale?
+find -> special -> blanks -> rows
+
+Cum scapam de spatii intr un text?
+- se foloseste functia TRIM => ex.TRIM(C4)
+- pentru toata coloana cu dublu clic, sau cu drop
+- pentru a copia, folosim copierea speciala(iconita 123)
+
+Prima litera cu majuscula, restul litere mici
+- functia proper
+ex: =PROPER(C2)
+
+cum scriem in loc de telas tesla
+cu find si replace
+Pentru a bloca o functie folosim $ -> ex: $C$4
+
+litere mari in litere mici = upper
+Shortcut
+shift+ctrl+sageata == selecteaza toata coloana/linia
+
+Curatare format date
+text to columns 
+
+
+10 metode de curatare date
+Text to date
+cand un numar este in format corect, o sa apara diferit la fiecare categorie
+
+
+
+left(de unde, cate) =>de la inceputul cuvantului
+upper(left(C6,1)) = prima litera
+
+Extragere nume -> flash fill
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+
+#1	Ce genuri muzicale avem in tabel?
+
+#2	Afisati numele artistilor in ordine alfabetica afisati o singura data
+
+#3	Identificati artistii si melodiile care au fost interpretate in duet (doi artisti)?
+
+#4	Identificati toate melodiile lui Elvis Presley lansate incepand cu 1960 
+
+#5	Identificati melodiile din genul Slow din anii 60'-70', cu mai mult de 10 mil copies 
+ -- sau melodiile genului Rock din anii 60'-70', cum cel putin 15 mil copies 
+ 
+#6	Identificati toate melodiile din genul Rock, indiferent de an, care au fost Soundtrack (linie melodica intr-un film)
+
+
+#7	Afisati toate coloanele pentru melodiile din 
+-- anii 60, Rock 
+-- anii 70, Slow 
+-- anii 80-90, Rock si Slow.
+
+#8	Stim ca fiecare artist a primit o suma de bani pentru melodia care a fost coloana sonora in film (coloana Soundtrack)
+-- in anii 60-70 se acordau 10 mil $, iar in anii 80-90 se acordau 25 mil $
+-- identificatii artistul, anul si suma de bani primiti
+
+#9	Pentru fiecare melodie Rock calculati durata melodiei in secunde.
+
+#10 Daca 1 copie (coloana COPIES) valora 2 $ la lansarea in anii 60-70, respectiv 4 $ la lansarea in anii 80-90,
+ -- care ar fi valoarea totala a copiilor pentru melodiile genului Slow care sa nu fie Soundtrak?
