@@ -1,5 +1,3 @@
-# Orange-Digital-Center---Data-Analytics-Business-Intelligence
-
 # Data Analytics & Business Intelligence Course - Summer 2023
 
 In the summer of 2023, I participated in an exceptionally valuable course in the field of Data Analytics and Business Intelligence, organized by the Leaders Foundation in collaboration with the Orange Digital Center, as part of the "Opportunity Workshop" program. This course had a total duration of 60 hours and helped me develop comprehensive knowledge, transitioning from a basic to an intermediate level in the use of essential tools for data analysis, such as Excel, SQL, and Tableau.
